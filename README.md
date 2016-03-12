@@ -75,7 +75,7 @@ $ npm install
 ```
 安装服务端环境依赖
 
-* 在 `web-project 目录`中执行
+* 在 `server-modules 目录`中执行
 ```
 $ npm install
 ```
